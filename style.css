@@ -1,0 +1,40 @@
+.outerflex {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.outerbox {
+  background-color: black;
+  height: 310px;
+  width: 310px;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px;
+  gap: 5px;
+}
+.box {
+  background-color:#EAD2AC;
+  text-align: center;
+  font-size: 70px;
+}
+.box:hover {
+  background-color: rgb(224, 220, 220);
+}
+.h1text {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 45px;
+  margin-bottom: 250px;
+}
+
+footer {
+  background-color: #66717E;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif; 
+}
+.container-fluid{
+  background-color: #8B687F;
+}
+
+
